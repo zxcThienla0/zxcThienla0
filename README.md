@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
-## 💻 **Featured Projects**
+## 💻 **My Projects**
 
 ### 🔥 **Real-time Chat Platform**
 **Next-generation messaging experience**
@@ -47,13 +47,13 @@
 ⭐ **Features:**
 - Live messaging with WebSockets
 - Voice messages recording & playback  
-- File sharing with progress
+- File sharing
 - Multiple chat rooms
 - Secure JWT authentication
 - User presence system
 
 🛠 **Stack:** Node.js, Express, WebSockets, PostgreSQL, React, TypeScript  
-🚀 **Status:** Production Ready
+🟢 **Status:** Active Development
 
 ### 📅 **ShiftFlow Calendar** 
 **Smart employee scheduling system**
@@ -66,24 +66,7 @@
 - Export functionality
 
 🛠 **Stack:** React, TypeScript, Node.js, PostgreSQL, JWT  
-🟢 **Status:** Active Development
-
-## 📊 **Development Focus**
-
-🎯 **Backend Excellence**
-- PostgreSQL Optimization
-- API Design & Documentation  
-- WebSockets Scaling
-
-🏗 **System Architecture** 
-- Microservices Patterns
-- Clean Code Principles
-- Best Practices
-
-⚡ **Performance**
-- Load Testing
-- Caching Strategies
-- Database Indexing
+🚀 **Status:** Production Ready
 
 ## 🌐 **Connect With Me**
 
