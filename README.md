@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
-## 💻 **My Projects**
+### 💻 **My Projects**
 
 ## 🔥 **Real-time Chat Platform**
 **Next-generation messaging experience**
