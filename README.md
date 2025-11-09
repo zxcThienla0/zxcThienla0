@@ -61,7 +61,6 @@
 ⭐ **Features:**
 - Interactive shift management
 - Public read-only sharing links
-- Role-based permissions
 - Real-time updates
 - Export functionality
 
